@@ -1,6 +1,0 @@
----
-title: MyfirstBlog
-layout: about
----
-# 这是我的第一篇博客
- Hello world!
