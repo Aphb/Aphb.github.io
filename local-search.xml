@@ -5,10 +5,10 @@
   
   <entry>
     <title>MyfirstBlog</title>
-    <link href="/2024/03/21/index/"/>
-    <url>/2024/03/21/index/</url>
+    <link href="/2024/03/21/index%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <url>/2024/03/21/index%20-%20%E5%89%AF%E6%9C%AC/</url>
     
-    <content type="html"><![CDATA[<h1 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h1><p>欢迎您！<br>      Hello World！</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="这是我的第二篇博客"><a href="#这是我的第二篇博客" class="headerlink" title="这是我的第二篇博客"></a>这是我的第二篇博客</h1><p>欢迎您！<br>      Hello World！</p>]]></content>
     
     
     
@@ -17,11 +17,11 @@
   
   
   <entry>
-    <title></title>
-    <link href="/2024/03/20/hello-world/"/>
-    <url>/2024/03/20/hello-world/</url>
+    <title>MyfirstBlog</title>
+    <link href="/2024/03/21/index/"/>
+    <url>/2024/03/21/index/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h1 id="这是我的第一篇博客"><a href="#这是我的第一篇博客" class="headerlink" title="这是我的第一篇博客"></a>这是我的第一篇博客</h1><p>欢迎您！<br>      Hello World！</p>]]></content>
     
     
     
