@@ -8,7 +8,7 @@
     <link href="/2024/03/22/Untitled/"/>
     <url>/2024/03/22/Untitled/</url>
     
-    <content type="html"><![CDATA[<h1>这是我的第一篇博客</h1><div class="cards"><center>................................................................</center>Hello World！</div>]]></content>
+    <content type="html"><![CDATA[<h1>这是我的第一篇博客</h1><div class="card"><center>................................................................</center>Hello World！</div>]]></content>
     
     
     
@@ -21,7 +21,7 @@
     <link href="/2024/03/21/index/"/>
     <url>/2024/03/21/index/</url>
     
-    <content type="html"><![CDATA[<div class="cards">大苏打·<center>................................................................</center></div>]]></content>
+    <content type="html"><![CDATA[<div class="card">大苏打·<center>................................................................</center></div>]]></content>
     
     
     
